@@ -3,6 +3,7 @@
 **SME Loans through Emirates NBD, powered by Oracle smart contracts**
 
 [![Website](/assets/demo.gif)](http://ec2-34-248-9-135.eu-west-1.compute.amazonaws.com/)
+
 **3rd place winner of the [in5 Blockchain Challenge](https://infive.ae/blockchainchallenge/)**
 *** 
 
